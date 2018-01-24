@@ -1,3 +1,9 @@
+[B]Version 14.8.7[/B]
+- Updated Paramount Network logo
+
+[B]Version 14.8.6[/B]
+- Added support for new Paramount Network channel (paid accounts)
+
 [B]Version 14.8.5[/B]
 - Added access to the USTVnow Guide settings from the USTVnow Plus settings
 

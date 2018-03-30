@@ -1148,6 +1148,20 @@
 	
 </addon>
 
+<addon id="plugin.video.usbwizard" name="Backup Restore WIZARD" version="1.2.9" provider-name="LittleWiz">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">USB-SDCARD WIZARD</summary>
+    <description lang="en">Configure Kodi with all the Best Goodies!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.ustv.catchup" name="USTVcatchup" provider-name="mhancoc7" version="0.3.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
@@ -1250,6 +1264,20 @@
 	<disclaimer lang="en">The author does not host nor distribute any of the content you may watch using this addon. The author has no part in the development of any included technologies. When seeking help in Kodi's forum please respect rules (http://kodi.wiki/view/Forum_rules).</disclaimer>
     <disclaimer lang="pt">Os autores não alojam nem distribuem nenhum do conteúdo que poderá ser reproduzido a partir deste addon. Os autores não têm qualquer parte no desenvolvimento de qualquer uma das tecnologias. Se procurar ajuda no fórum oficial do Kodi por favor respeite as regras do fórum (http://kodi.wiki/view/Forum_rules).</disclaimer>
    	<disclaimer lang="es">El autor no aloja ni distribuye cualquier contenido que ud. pudiera reproducir usando este addon. El autor no tiene participacion en el desarrollo de cualquier tecnologia incluida. Cuando requiera ayuda en el foro de Kodi por favor respete las reglas (http://kodi.wiki/view/Forum_rules).</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.kodilogemail" name="Kodi Log Emailer" version="0.1.1" provider-name="LittleWiz">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">.Kodi Log Emailer</summary>
+    <description lang="en">.Kodi Log Emailer</description>
     <platform>all</platform>
   </extension>
 </addon>

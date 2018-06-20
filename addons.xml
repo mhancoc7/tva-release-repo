@@ -188,7 +188,7 @@
 	
 </addon>
 
-<addon id="plugin.program.indigo" version="4.0.4.2" name="Indigo" provider-name="tvaddons">
+<addon id="plugin.program.indigo" version="4.0.5" name="Indigo" provider-name="tvaddons">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>

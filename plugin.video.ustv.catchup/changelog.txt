@@ -1,3 +1,9 @@
+[B]Version 0.3.6[/B]
+- More minor tweaks
+
+[B]Version 0.3.5[/B]
+- Minor tweaks
+
 [B]Version 0.3.4[/B]
 - Fixes for several sections
 - Added better checks when now free episodes available

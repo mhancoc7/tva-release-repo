@@ -1,3 +1,11 @@
+[B]Version 1.0.8[/B]
+- Turned Off Email support (TVA server requirement)
+- Turned Off Dropbox and TVA uploaders (TVA server requirement)
+- Added 1 week Expiration for Ubuntu paste
+- Added support for kodi forks
+- Added support for python 3
+- Fixed error condition if old log is included but not there
+
 [B]Version 1.0.7[/B]
 - Remove Pastie; Add ubuntu
 - Add new artwork

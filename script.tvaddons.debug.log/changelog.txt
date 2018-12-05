@@ -1,3 +1,6 @@
+[B]Version 1.0.9[/B]
+- Removed username referances and hoste filename from the uploaded log
+
 [B]Version 1.0.8[/B]
 - Turned Off Email support (TVA server requirement)
 - Turned Off Dropbox and TVA uploaders (TVA server requirement)

@@ -1,3 +1,15 @@
+[B]Version 0.0.14[/B]
+- v0.0.14 Rolled back recent changes which were hiding some videos, fixed file transfer view
+
+[B]Version 0.0.13[/B]
+- Changed version octets to comply with Kodi API standards to auto-update from repository. Changed Addon metadata
+
+[B]Version 0.0.12.3[/B]
+- Support for posters
+
+[B]Version 0.0.12.2[/B]
+- Various fixes for new API
+
 [B]Version 0.0.11[/B]
 - Show parent folders of videos
 
